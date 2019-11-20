@@ -1,4 +1,19 @@
 //Kellie Henderson restaurant structure style
+/*
+created on 10/2/2019
+Dr. Tyson McMillan
+Tarrant County Community College
+The purpose of the assignment is to create a menu where the user can add or delete items while it keeps a running total of items sold and the price of the item. 
+A reciept is generated at the end of the program.
+
+skills:
+how to include files and which header files are needed.
+Vectors, pushback, do-while loops, for loops, placement of voids, where to include most of your work, how to add color.
+
+
+*/
+
+
 #include<iostream>
 #include<string>
 #include<iomanip>
